@@ -273,7 +273,7 @@ const end_page = {
     type: jsPsychInstructions, //name type of plugin
     pages: [
             "<p>Thank you for participating! Please copy the code on the next page for Prolific in case of disconnection.</p>",
-            "<p>C1H2T2SP</p>"
+            "<p>C83X9GKZ</p>"
         ],
         key_forward: 'ArrowRight', // Define the key to move forward
         allow_backward: false, // Allow the participant to move backward
